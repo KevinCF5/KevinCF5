@@ -16,7 +16,7 @@
 * 📇 You could check my CV [here](https://github.com/TL086/TL086/blob/main/Tiago_Lourenço_Resume.pdf "here")
 
 * 📫 How to reach me:  [<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtokevinsmateus@outlook.com" align="center" height="20" hspace="1"/>](mailto:kevinsmateus@outlook.com)
-[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinmateus/" align="center" height="20" hspace="1"/>](www.linkedin.com/in/kevinmateus)
+[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinmateus/" align="center" height="20" hspace="1"/>](https://www.linkedin.com/in/kevinmateus/)
 [<img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" align="center" height="20" hspace="1"/>](https://wa.me/+351918614124)
 
 ## 🌐 Socials:
