@@ -13,7 +13,7 @@
 
 * 🏋️‍♂️ Hobbies: Pratice crossfit and travel!!  
 
-* 📇 You could check my CV [here](CV Kévin Mateus.pdf "here")
+* 📇 You could check my CV [here](https://github.com/KevinCF5/KevinCF5/blob/main/CV%20K%C3%A9vin%20Mateus.pdf)"here")
 
 * 📫 How to reach me:  [<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtokevinsmateus@outlook.com" align="center" height="20" hspace="1"/>](mailto:kevinsmateus@outlook.com)
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinmateus/" align="center" height="20" hspace="1"/>](https://www.linkedin.com/in/kevinmateus/)
