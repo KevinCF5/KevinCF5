@@ -5,7 +5,7 @@
 
 * 🛫 I am an Aeronautical Engineer graduate 
 
-* 👨‍💻 I am a Junior Full stack developer 
+* 👨‍💻 I am a Full stack developer 
 
 * 👯 I’m looking to collaborate on new challenging projects 
 
