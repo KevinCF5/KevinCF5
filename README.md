@@ -9,7 +9,7 @@
 
 * 👯 I’m looking to collaborate on new challenging projects 
 
-* 🎓 I’m currently learning React and Outsystems
+* 🎓 I’m currently learning React
 
 * 🏋️‍♂️ Hobbies: Pratice crossfit and travel!!  
 
